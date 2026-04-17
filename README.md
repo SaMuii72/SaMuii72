@@ -1,8 +1,7 @@
-# Hello, I'm Muii 👋
-
+# <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=40&pause=1000&color=5B99F7&width=500&lines=Hello,+I'm+Thanrada" alt="Typing SVG" /> </p>
 <p align="left">
 <a href="https://www.canva.com/design/DAG9FmKMmuE/dH63hdlA0sbXT67NQXiokg/edit" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-9b59b6?style=for-the-badge&logo=react&logoColor=white"></a>
-<a href="thanrada.fai@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:thanrada.fai@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ### About Me
