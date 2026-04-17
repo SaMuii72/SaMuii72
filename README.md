@@ -1,5 +1,5 @@
 
-#<p align="left">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=45&pause=1000&color=333333&width=500&height=70&lines=Hello,+I'm+Thanrada+👋" />
 </p>
 <a href="https://www.canva.com/design/DAG9FmKMmuE/dH63hdlA0sbXT67NQXiokg/edit" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-9b59b6?style=for-the-badge&logo=react&logoColor=white"></a>
