@@ -1,6 +1,5 @@
 
-# <marquee direction="left" scrollamount="5" style="font-family: 'Righteous'; color: #5B99F7;">Hello, I'm Thanrada 👋 Welcome to my Portfolio! 🚀</marquee>
-<p align="left">
+# <p align="left"> <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Hello%20I'm%20Thanrada&fontSize=50&animation=fadeIn" /> </p><p align="left">
 <a href="https://www.canva.com/design/DAG9FmKMmuE/dH63hdlA0sbXT67NQXiokg/edit" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-9b59b6?style=for-the-badge&logo=react&logoColor=white"></a>
 <a href="mailto:thanrada.fai@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
