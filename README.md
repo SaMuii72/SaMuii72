@@ -1,9 +1,8 @@
 # Hello, I'm Muii 👋
 
 <p align="left">
-<a href="YOUR_PORTFOLIO_LINK" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-9b59b6?style=for-the-badge&logo=react&logoColor=white"></a>
-<a href="YOUR_LINKEDIN_LINK" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:YOUR_EMAIL" target="_blank"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.canva.com/design/DAG9FmKMmuE/dH63hdlA0sbXT67NQXiokg/edit" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-9b59b6?style=for-the-badge&logo=react&logoColor=white"></a>
+<a href="thanrada.fai@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ### About Me
@@ -18,7 +17,6 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
